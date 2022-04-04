@@ -1,0 +1,8 @@
+C:\Users\rober\Desktop\Projekti\c#\IksOks\bin\Debug\IksOks.exe.config
+C:\Users\rober\Desktop\Projekti\c#\IksOks\bin\Debug\IksOks.exe
+C:\Users\rober\Desktop\Projekti\c#\IksOks\bin\Debug\IksOks.pdb
+C:\Users\rober\Desktop\Projekti\c#\IksOks\obj\Debug\IksOks.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\Projekti\c#\IksOks\obj\Debug\IksOks.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\Desktop\Projekti\c#\IksOks\obj\Debug\IksOks.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Projekti\c#\IksOks\obj\Debug\IksOks.exe
+C:\Users\rober\Desktop\Projekti\c#\IksOks\obj\Debug\IksOks.pdb
